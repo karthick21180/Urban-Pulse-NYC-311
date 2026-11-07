@@ -1,0 +1,8 @@
+check,count
+Raw rows,100000
+Cleaned rows,100000
+Missing request IDs,0
+Repeated request IDs,0
+Invalid date order,28
+Valid resolution durations,96161
+Usable coordinate pairs,97574
